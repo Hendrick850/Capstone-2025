@@ -1,0 +1,6 @@
+2025-07-31 13:50:49,966 - WARNING - Model not found at models/best.pt. Loading default YOLOv5s
+2025-07-31 13:50:55,972 - ERROR - Error loading model: No module named 'seaborn'
+2025-07-31 13:57:57,465 - INFO - Loading YOLOv5s model...
+2025-07-31 13:58:09,074 - INFO - Model loaded successfully
+2025-07-31 13:58:49,027 - INFO - Loading YOLOv5s model...
+2025-07-31 13:58:52,622 - INFO - Model loaded successfully
