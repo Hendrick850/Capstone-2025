@@ -4,3 +4,17 @@
 2025-07-31 13:58:09,074 - INFO - Model loaded successfully
 2025-07-31 13:58:49,027 - INFO - Loading YOLOv5s model...
 2025-07-31 13:58:52,622 - INFO - Model loaded successfully
+2025-07-31 14:17:02,902 - INFO - Loading YOLOv5s model...
+2025-07-31 14:17:06,277 - INFO - Model loaded successfully
+2025-07-31 15:00:41,204 - WARNING - Model not found at models/best.pt. Loading default YOLOv5s
+2025-07-31 15:00:47,289 - INFO - Default YOLOv5s model loaded
+2025-07-31 15:00:59,422 - INFO - Camera 0 initialized successfully
+2025-07-31 15:01:06,006 - INFO - Camera 0 initialized successfully
+2025-07-31 15:01:30,658 - INFO - Camera 0 initialized successfully
+2025-07-31 15:01:51,321 - INFO - Camera 0 initialized successfully
+2025-07-31 15:01:58,127 - INFO - Camera 0 initialized successfully
+2025-07-31 16:26:01,038 - WARNING - Model not found at models/best.pt. Loading default YOLOv5s
+2025-07-31 16:26:08,391 - INFO - Default YOLOv5s model loaded
+2025-07-31 16:26:25,794 - INFO - Camera 0 initialized successfully
+2025-07-31 16:27:25,513 - INFO - Loading YOLOv5s model...
+2025-07-31 16:27:31,316 - INFO - Model loaded successfully
