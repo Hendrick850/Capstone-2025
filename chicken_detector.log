@@ -18,3 +18,12 @@
 2025-07-31 16:26:25,794 - INFO - Camera 0 initialized successfully
 2025-07-31 16:27:25,513 - INFO - Loading YOLOv5s model...
 2025-07-31 16:27:31,316 - INFO - Model loaded successfully
+2025-08-04 01:33:36,773 - INFO - Loading custom model: models/chicken_best.pt
+2025-08-04 01:33:37,033 - INFO - Model loaded successfully - Type: CUSTOM TRAINED (95.6% accuracy)
+2025-08-04 01:35:11,215 - INFO - Test results saved to test_results/ultralytics_tests_20250804.csv
+2025-08-04 01:36:51,418 - INFO - Test results saved to test_results/ultralytics_tests_20250804.csv
+2025-08-04 01:38:40,138 - INFO - Test results saved to test_results/ultralytics_tests_20250804.csv
+2025-08-04 01:39:55,504 - INFO - Test results saved to test_results/ultralytics_tests_20250804.csv
+2025-08-04 01:40:15,714 - INFO - Test results saved to test_results/ultralytics_tests_20250804.csv
+2025-08-04 01:40:16,221 - INFO - Test results saved to test_results/ultralytics_tests_20250804.csv
+2025-08-04 01:40:25,800 - INFO - Test results saved to test_results/ultralytics_tests_20250804.csv

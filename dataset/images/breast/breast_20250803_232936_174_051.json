@@ -1,0 +1,11 @@
+{
+  "original_filename": "stock-photo-raw-chicken-breast-piece-of-meat-isolated-over-the-white-background-571598269.jpg",
+  "original_path": "dataset\\drop_zone\\breast_batch\\stock-photo-raw-chicken-breast-piece-of-meat-isolated-over-the-white-background-571598269.jpg",
+  "chicken_part": "breast",
+  "processed_timestamp": "20250803_232936_174",
+  "image_size": [
+    1024,
+    783
+  ],
+  "processing_method": "batch_automated"
+}

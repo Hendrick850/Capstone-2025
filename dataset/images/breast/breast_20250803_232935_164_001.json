@@ -1,0 +1,11 @@
+{
+  "original_filename": "1000_F_687545920_dxsWbLQbkzfxRgkLeLuzF9cjJyyCx9nF.jpg",
+  "original_path": "dataset\\drop_zone\\breast_batch\\1000_F_687545920_dxsWbLQbkzfxRgkLeLuzF9cjJyyCx9nF.jpg",
+  "chicken_part": "breast",
+  "processed_timestamp": "20250803_232935_164",
+  "image_size": [
+    1000,
+    582
+  ],
+  "processing_method": "batch_automated"
+}

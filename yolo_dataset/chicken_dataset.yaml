@@ -1,0 +1,9 @@
+names:
+- breast
+- thigh
+- wing
+- drumstick
+nc: 4
+path: C:\Users\hendr\Desktop\Chicken\yolo_dataset
+train: images/train
+val: images/val

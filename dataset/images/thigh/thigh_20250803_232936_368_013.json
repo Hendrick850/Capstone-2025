@@ -1,0 +1,11 @@
+{
+  "original_filename": "depositphotos_165097252-stock-photo-boneless-raw-chicken-thighs.jpg",
+  "original_path": "dataset\\drop_zone\\thigh_batch\\depositphotos_165097252-stock-photo-boneless-raw-chicken-thighs.jpg",
+  "chicken_part": "thigh",
+  "processed_timestamp": "20250803_232936_368",
+  "image_size": [
+    600,
+    400
+  ],
+  "processing_method": "batch_automated"
+}

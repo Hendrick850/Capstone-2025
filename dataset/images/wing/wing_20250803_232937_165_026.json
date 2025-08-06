@@ -1,0 +1,11 @@
+{
+  "original_filename": "depositphotos_406971940-stock-photo-raw-chicken-wings-isolated-white.jpg",
+  "original_path": "dataset\\drop_zone\\wing_batch\\depositphotos_406971940-stock-photo-raw-chicken-wings-isolated-white.jpg",
+  "chicken_part": "wing",
+  "processed_timestamp": "20250803_232937_165",
+  "image_size": [
+    260,
+    260
+  ],
+  "processing_method": "batch_automated"
+}

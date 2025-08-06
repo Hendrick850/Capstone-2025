@@ -1,0 +1,11 @@
+{
+  "original_filename": "depositphotos_74636571-stock-photo-raw-chicken-meat.jpg",
+  "original_path": "dataset\\drop_zone\\drumstick_batch\\depositphotos_74636571-stock-photo-raw-chicken-meat.jpg",
+  "chicken_part": "drumstick",
+  "processed_timestamp": "20250803_232937_978",
+  "image_size": [
+    600,
+    400
+  ],
+  "processing_method": "batch_automated"
+}

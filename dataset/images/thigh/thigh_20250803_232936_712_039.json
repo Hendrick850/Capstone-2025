@@ -1,0 +1,11 @@
+{
+  "original_filename": "depositphotos_4891570-stock-photo-fresh-chicken-thigh-isolated-white.jpg",
+  "original_path": "dataset\\drop_zone\\thigh_batch\\depositphotos_4891570-stock-photo-fresh-chicken-thigh-isolated-white.jpg",
+  "chicken_part": "thigh",
+  "processed_timestamp": "20250803_232936_712",
+  "image_size": [
+    600,
+    427
+  ],
+  "processing_method": "batch_automated"
+}

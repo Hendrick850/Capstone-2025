@@ -1,0 +1,11 @@
+{
+  "original_filename": "shutterstock-1915431781-huge-licensed-scaled.jpg",
+  "original_path": "dataset\\drop_zone\\breast_batch\\shutterstock-1915431781-huge-licensed-scaled.jpg",
+  "chicken_part": "breast",
+  "processed_timestamp": "20250803_232936_112",
+  "image_size": [
+    1024,
+    688
+  ],
+  "processing_method": "batch_automated"
+}

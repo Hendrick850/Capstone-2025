@@ -1,0 +1,11 @@
+{
+  "original_filename": "depositphotos_64399103-stock-photo-raw-chicken-breast.jpg",
+  "original_path": "dataset\\drop_zone\\breast_batch\\depositphotos_64399103-stock-photo-raw-chicken-breast.jpg",
+  "chicken_part": "breast",
+  "processed_timestamp": "20250803_232935_693",
+  "image_size": [
+    600,
+    496
+  ],
+  "processing_method": "batch_automated"
+}

@@ -1,0 +1,11 @@
+{
+  "original_filename": "depositphotos_5443384-stock-photo-raw-chicken-breast-in-frying.jpg",
+  "original_path": "dataset\\drop_zone\\breast_batch\\depositphotos_5443384-stock-photo-raw-chicken-breast-in-frying.jpg",
+  "chicken_part": "breast",
+  "processed_timestamp": "20250803_232935_650",
+  "image_size": [
+    600,
+    407
+  ],
+  "processing_method": "batch_automated"
+}

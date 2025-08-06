@@ -1,0 +1,11 @@
+{
+  "original_filename": "depositphotos_319092956-stock-photo-chicken-fillet-with-ingredients-for.jpg",
+  "original_path": "dataset\\drop_zone\\breast_batch\\depositphotos_319092956-stock-photo-chicken-fillet-with-ingredients-for.jpg",
+  "chicken_part": "breast",
+  "processed_timestamp": "20250803_232935_492",
+  "image_size": [
+    600,
+    400
+  ],
+  "processing_method": "batch_automated"
+}

@@ -1,0 +1,11 @@
+{
+  "original_filename": "stock-photo-raw-chicken-breast-fillet-on-butcher-table-gray-background-top-view-2126438264.jpg",
+  "original_path": "dataset\\drop_zone\\breast_batch\\stock-photo-raw-chicken-breast-fillet-on-butcher-table-gray-background-top-view-2126438264.jpg",
+  "chicken_part": "breast",
+  "processed_timestamp": "20250803_232936_143",
+  "image_size": [
+    1024,
+    750
+  ],
+  "processing_method": "batch_automated"
+}

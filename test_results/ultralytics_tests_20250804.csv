@@ -1,0 +1,8 @@
+class,confidence,bbox,timestamp,model_type,is_chicken_part,image_name,test_session
+thigh,0.9779031872749329,"[0, 0, 1298, 956]",2025-08-04T01:35:11.169418,CUSTOM TRAINED (95.6% accuracy),True,raw-chicken-drumsticks-rubbed-in-spices-uncooked-chicken-legs-dusted-with-paprika-and-other-spices-2HN6873.jpg,20250804_013511
+breast,0.9015329480171204,"[1, 31, 1196, 800]",2025-08-04T01:36:51.398121,CUSTOM TRAINED (95.6% accuracy),True,raw-chicken-legs-on-a-rack_.jpg,20250804_013651
+thigh,0.9779031872749329,"[0, 0, 1298, 956]",2025-08-04T01:38:40.116537,CUSTOM TRAINED (95.6% accuracy),True,raw-chicken-drumsticks-rubbed-in-spices-uncooked-chicken-legs-dusted-with-paprika-and-other-spices-2HN6873.jpg,20250804_013840
+breast,0.9015329480171204,"[1, 31, 1196, 800]",2025-08-04T01:39:55.482685,CUSTOM TRAINED (95.6% accuracy),True,raw-chicken-legs-on-a-rack_.jpg,20250804_013955
+breast,0.9015329480171204,"[1, 31, 1196, 800]",2025-08-04T01:40:15.693400,CUSTOM TRAINED (95.6% accuracy),True,raw-chicken-legs-on-a-rack_.jpg,20250804_014015
+breast,0.9015329480171204,"[1, 31, 1196, 800]",2025-08-04T01:40:16.202569,CUSTOM TRAINED (95.6% accuracy),True,raw-chicken-legs-on-a-rack_.jpg,20250804_014016
+breast,0.9015329480171204,"[1, 31, 1196, 800]",2025-08-04T01:40:25.780474,CUSTOM TRAINED (95.6% accuracy),True,raw-chicken-legs-on-a-rack_.jpg,20250804_014025

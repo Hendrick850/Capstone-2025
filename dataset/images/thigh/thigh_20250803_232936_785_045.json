@@ -1,0 +1,11 @@
+{
+  "original_filename": "depositphotos_68719245-stock-photo-raw-meat-white-thighs-uncooked.jpg",
+  "original_path": "dataset\\drop_zone\\thigh_batch\\depositphotos_68719245-stock-photo-raw-meat-white-thighs-uncooked.jpg",
+  "chicken_part": "thigh",
+  "processed_timestamp": "20250803_232936_785",
+  "image_size": [
+    600,
+    400
+  ],
+  "processing_method": "batch_automated"
+}

@@ -1,0 +1,11 @@
+{
+  "original_filename": "depositphotos_48590785-stock-photo-whole-raw-chicken-with-rose.jpg",
+  "original_path": "dataset\\drop_zone\\breast_batch\\depositphotos_48590785-stock-photo-whole-raw-chicken-with-rose.jpg",
+  "chicken_part": "breast",
+  "processed_timestamp": "20250803_232935_584",
+  "image_size": [
+    600,
+    400
+  ],
+  "processing_method": "batch_automated"
+}

@@ -1,0 +1,11 @@
+{
+  "original_filename": "cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3B4OTgzNDAxLWltYWdlLWpvYjE3MjhfMS5qcGc.jpg",
+  "original_path": "dataset\\drop_zone\\breast_batch\\cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3B4OTgzNDAxLWltYWdlLWpvYjE3MjhfMS5qcGc.jpg",
+  "chicken_part": "breast",
+  "processed_timestamp": "20250803_232935_243",
+  "image_size": [
+    1000,
+    727
+  ],
+  "processing_method": "batch_automated"
+}
